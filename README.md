@@ -80,7 +80,7 @@ This approach enables:
 
 **Jorge Barros**  
 Data analyst & Power BI developer  
-🔗 [LinkedIn](https://linkedin.com/in/tu-perfil) • 📧 [tuemail@example.com](mailto:tuemail@example.com)
+🔗 [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jobastrategist/)) • 📧 [tuemail@example.com](mailto:jobastrategist@gmail.com)
 
 ---
 
